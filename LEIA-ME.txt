@@ -1,0 +1,17 @@
+IVSH - Índice de Vulnerabilidade Socioambiental de Sistemas Hídricos
+Entrega final
+
+Conteúdo desta pasta
+- Artigo_IVSH.pdf ........ artigo final (20 páginas)
+- IVSH_framework.html .... painel interativo do IVSH, com o jogo "A Régua das Águas" na abertura
+
+Como usar
+1. Mantenha os dois arquivos na MESMA pasta e com estes nomes exatos.
+2. Abra o IVSH_framework.html em um navegador atualizado (Chrome, Edge, Firefox ou Safari).
+   Não precisa de internet.
+3. O jogo abre pelo botão "Jogar", na abertura do painel.
+4. O link do artigo (seção 6) abre o painel, e o painel e o jogo têm link de volta para o PDF.
+   Alguns leitores de PDF pedem permissão para abrir o arquivo local; o leitor do navegador
+   e o do celular podem bloquear esse link.
+
+Valores do painel e do jogo são fictícios ou ilustrativos; o índice não foi aplicado a açudes reais.
